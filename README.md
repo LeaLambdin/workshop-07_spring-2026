@@ -10,11 +10,20 @@ All READMEs for this class should have the following sections:
 
 What is this repo for?
 
+This repo provides examples of linear models using two datasets: one on abalone shell growth, and the other on temperature and elevation relationships.
+
 Whose repo is it? Who is contributing to it?
+
+This is a fork from the ENVS-193D-2026 organization.
+
 
 ## Data and file information
 
 What files are there?
+
+The `code` folder includes all code for linear models.
+
+The `data` folder includes all code for linear models.
 
 What code is there, and what does it do?
 
