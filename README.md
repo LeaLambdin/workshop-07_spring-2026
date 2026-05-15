@@ -23,7 +23,7 @@ What files are there?
 
 The `code` folder includes all code for linear models.
 
-The `data` folder includes all code for linear models.
+The `data` folder includes all data files for linear model code.
 
 What code is there, and what does it do?
 
